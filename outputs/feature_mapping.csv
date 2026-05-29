@@ -1,0 +1,141 @@
+feature,itemid,agg,label,category
+item_51250_max,51250,max,MCV,Hematology
+item_51221_count,51221,count,Hematocrit,Hematology
+item_50912_mean,50912,mean,Creatinine,Chemistry
+item_50882_mean,50882,mean,Bicarbonate,Chemistry
+item_50868_mean,50868,mean,Anion Gap,Chemistry
+item_51250_mean,51250,mean,MCV,Hematology
+item_50971_max,50971,max,Potassium,Chemistry
+item_50983_mean,50983,mean,Sodium,Chemistry
+item_51006_pct_abnormal,51006,pct_abnormal,Urea Nitrogen,Chemistry
+item_51265_min,51265,min,Platelet Count,Hematology
+item_50931_max,50931,max,Glucose,Chemistry
+item_51006_last,51006,last,Urea Nitrogen,Chemistry
+item_50912_pct_abnormal,50912,pct_abnormal,Creatinine,Chemistry
+item_51248_last,51248,last,MCH,Hematology
+item_51006_mean,51006,mean,Urea Nitrogen,Chemistry
+item_50970_max,50970,max,Phosphate,Chemistry
+item_50971_mean,50971,mean,Potassium,Chemistry
+item_51248_min,51248,min,MCH,Hematology
+item_50931_std,50931,std,Glucose,Chemistry
+item_50893_pct_abnormal,50893,pct_abnormal,"Calcium, Total",Chemistry
+item_50983_pct_abnormal,50983,pct_abnormal,Sodium,Chemistry
+item_51222_count,51222,count,Hemoglobin,Hematology
+item_50893_min,50893,min,"Calcium, Total",Chemistry
+item_50868_min,50868,min,Anion Gap,Chemistry
+item_50912_last,50912,last,Creatinine,Chemistry
+item_50971_min,50971,min,Potassium,Chemistry
+item_51248_mean,51248,mean,MCH,Hematology
+item_50893_max,50893,max,"Calcium, Total",Chemistry
+item_51249_mean,51249,mean,MCHC,Hematology
+item_50902_min,50902,min,Chloride,Chemistry
+item_51301_max,51301,max,White Blood Cells,Hematology
+item_50931_count,50931,count,Glucose,Chemistry
+item_51301_min,51301,min,White Blood Cells,Hematology
+item_50882_min,50882,min,Bicarbonate,Chemistry
+item_50902_last,50902,last,Chloride,Chemistry
+item_51221_max,51221,max,Hematocrit,Hematology
+item_51249_pct_abnormal,51249,pct_abnormal,MCHC,Hematology
+item_51279_min,51279,min,Red Blood Cells,Hematology
+item_51279_mean,51279,mean,Red Blood Cells,Hematology
+item_50931_mean,50931,mean,Glucose,Chemistry
+item_50893_last,50893,last,"Calcium, Total",Chemistry
+item_50931_min,50931,min,Glucose,Chemistry
+item_51221_mean,51221,mean,Hematocrit,Hematology
+item_51265_max,51265,max,Platelet Count,Hematology
+item_51222_max,51222,max,Hemoglobin,Hematology
+item_51265_count,51265,count,Platelet Count,Hematology
+item_50971_pct_abnormal,50971,pct_abnormal,Potassium,Chemistry
+item_50971_last,50971,last,Potassium,Chemistry
+item_51277_last,51277,last,RDW,Hematology
+item_50882_pct_abnormal,50882,pct_abnormal,Bicarbonate,Chemistry
+item_50868_max,50868,max,Anion Gap,Chemistry
+item_50971_count,50971,count,Potassium,Chemistry
+item_50983_std,50983,std,Sodium,Chemistry
+item_50983_max,50983,max,Sodium,Chemistry
+item_50983_min,50983,min,Sodium,Chemistry
+item_50983_last,50983,last,Sodium,Chemistry
+item_50971_std,50971,std,Potassium,Chemistry
+item_51006_min,51006,min,Urea Nitrogen,Chemistry
+item_50912_max,50912,max,Creatinine,Chemistry
+item_50912_std,50912,std,Creatinine,Chemistry
+item_50882_last,50882,last,Bicarbonate,Chemistry
+item_51221_pct_abnormal,51221,pct_abnormal,Hematocrit,Hematology
+item_51221_min,51221,min,Hematocrit,Hematology
+item_51221_std,51221,std,Hematocrit,Hematology
+item_51006_max,51006,max,Urea Nitrogen,Chemistry
+item_51006_std,51006,std,Urea Nitrogen,Chemistry
+item_51006_count,51006,count,Urea Nitrogen,Chemistry
+item_51221_last,51221,last,Hematocrit,Hematology
+item_50902_pct_abnormal,50902,pct_abnormal,Chloride,Chemistry
+item_50902_count,50902,count,Chloride,Chemistry
+item_50902_std,50902,std,Chloride,Chemistry
+item_50902_max,50902,max,Chloride,Chemistry
+item_50902_mean,50902,mean,Chloride,Chemistry
+item_50912_count,50912,count,Creatinine,Chemistry
+item_50912_min,50912,min,Creatinine,Chemistry
+item_50983_count,50983,count,Sodium,Chemistry
+item_51277_count,51277,count,RDW,Hematology
+item_51277_std,51277,std,RDW,Hematology
+item_51277_max,51277,max,RDW,Hematology
+item_51277_min,51277,min,RDW,Hematology
+item_51277_mean,51277,mean,RDW,Hematology
+item_51222_pct_abnormal,51222,pct_abnormal,Hemoglobin,Hematology
+item_51222_min,51222,min,Hemoglobin,Hematology
+item_51222_std,51222,std,Hemoglobin,Hematology
+item_51265_std,51265,std,Platelet Count,Hematology
+item_51265_pct_abnormal,51265,pct_abnormal,Platelet Count,Hematology
+item_51222_mean,51222,mean,Hemoglobin,Hematology
+item_51222_last,51222,last,Hemoglobin,Hematology
+item_50868_pct_abnormal,50868,pct_abnormal,Anion Gap,Chemistry
+item_50868_count,50868,count,Anion Gap,Chemistry
+item_51265_mean,51265,mean,Platelet Count,Hematology
+item_51265_last,51265,last,Platelet Count,Hematology
+item_50882_count,50882,count,Bicarbonate,Chemistry
+item_50882_std,50882,std,Bicarbonate,Chemistry
+item_50882_max,50882,max,Bicarbonate,Chemistry
+item_50868_last,50868,last,Anion Gap,Chemistry
+item_50868_std,50868,std,Anion Gap,Chemistry
+item_51301_mean,51301,mean,White Blood Cells,Hematology
+item_51301_last,51301,last,White Blood Cells,Hematology
+item_51301_std,51301,std,White Blood Cells,Hematology
+item_51249_last,51249,last,MCHC,Hematology
+item_51301_pct_abnormal,51301,pct_abnormal,White Blood Cells,Hematology
+item_51301_count,51301,count,White Blood Cells,Hematology
+item_51279_pct_abnormal,51279,pct_abnormal,Red Blood Cells,Hematology
+item_51279_max,51279,max,Red Blood Cells,Hematology
+item_51279_std,51279,std,Red Blood Cells,Hematology
+item_51279_last,51279,last,Red Blood Cells,Hematology
+item_51277_pct_abnormal,51277,pct_abnormal,RDW,Hematology
+item_51250_pct_abnormal,51250,pct_abnormal,MCV,Hematology
+item_51250_min,51250,min,MCV,Hematology
+item_51250_std,51250,std,MCV,Hematology
+item_51250_count,51250,count,MCV,Hematology
+item_51249_std,51249,std,MCHC,Hematology
+item_51249_max,51249,max,MCHC,Hematology
+item_51249_count,51249,count,MCHC,Hematology
+item_51250_last,51250,last,MCV,Hematology
+item_51249_min,51249,min,MCHC,Hematology
+item_51279_count,51279,count,Red Blood Cells,Hematology
+item_50931_pct_abnormal,50931,pct_abnormal,Glucose,Chemistry
+item_51248_std,51248,std,MCH,Hematology
+item_50931_last,50931,last,Glucose,Chemistry
+item_51248_count,51248,count,MCH,Hematology
+item_51248_pct_abnormal,51248,pct_abnormal,MCH,Hematology
+item_51248_max,51248,max,MCH,Hematology
+item_50960_std,50960,std,Magnesium,Chemistry
+item_50960_max,50960,max,Magnesium,Chemistry
+item_50960_min,50960,min,Magnesium,Chemistry
+item_50960_mean,50960,mean,Magnesium,Chemistry
+item_50960_last,50960,last,Magnesium,Chemistry
+item_50960_pct_abnormal,50960,pct_abnormal,Magnesium,Chemistry
+item_50893_mean,50893,mean,"Calcium, Total",Chemistry
+item_50960_count,50960,count,Magnesium,Chemistry
+item_50893_count,50893,count,"Calcium, Total",Chemistry
+item_50893_std,50893,std,"Calcium, Total",Chemistry
+item_50970_mean,50970,mean,Phosphate,Chemistry
+item_50970_last,50970,last,Phosphate,Chemistry
+item_50970_min,50970,min,Phosphate,Chemistry
+item_50970_std,50970,std,Phosphate,Chemistry
+item_50970_count,50970,count,Phosphate,Chemistry
+item_50970_pct_abnormal,50970,pct_abnormal,Phosphate,Chemistry

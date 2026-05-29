@@ -1,0 +1,18 @@
+{
+  "logistic_with_derived": {
+    "auc": 1.0,
+    "auprc": 0.9999999999999998,
+    "brier": 0.010613768106998519,
+    "threshold": 0.43570447587089783,
+    "sensitivity": 1.0,
+    "specificity": 1.0
+  },
+  "xgb_with_derived": {
+    "auc": 1.0,
+    "auprc": 1.0,
+    "brier": 0.00029598738183267415,
+    "threshold": 0.9827956557273865,
+    "sensitivity": 1.0,
+    "specificity": 1.0
+  }
+}

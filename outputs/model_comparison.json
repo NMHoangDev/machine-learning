@@ -1,0 +1,75 @@
+[
+  {
+    "model": "Logistic Regression",
+    "train_auc": 0.8323412698412698,
+    "test_auc": 0.8538461538461538,
+    "train_auprc": 0.4857060357060357,
+    "test_auprc": 0.42658730158730157,
+    "test_brier": 0.053727777132120284,
+    "overfitting": -0.02150488400488404,
+    "best_params": {
+      "C": 0.001,
+      "class_weight": null,
+      "max_iter": 1000
+    },
+    "cv_auc_mean": 0.7512820512820513,
+    "cv_auc_std": 0.13792631597723928,
+    "cv_auprc_mean": 0.4533333333333333,
+    "cv_auprc_std": 0.24115462996914563
+  },
+  {
+    "model": "Random Forest",
+    "train_auc": 0.9990079365079365,
+    "test_auc": 0.7961538461538462,
+    "train_auprc": 0.9861111111111112,
+    "test_auprc": 0.5120748299319728,
+    "test_brier": 0.051061026342403594,
+    "overfitting": 0.2028540903540903,
+    "best_params": {
+      "class_weight": "balanced",
+      "max_depth": 10,
+      "min_samples_split": 10,
+      "n_estimators": 200
+    },
+    "cv_auc_mean": 0.8115384615384617,
+    "cv_auc_std": 0.11023777421512702,
+    "cv_auprc_mean": 0.4119047619047619,
+    "cv_auprc_std": 0.12945025922922082
+  },
+  {
+    "model": "LightGBM",
+    "train_auc": 0.9672619047619048,
+    "test_auc": 0.8153846153846154,
+    "train_auprc": 0.7083333333333333,
+    "test_auprc": 0.36700581395348836,
+    "test_brier": 0.050325184279985044,
+    "overfitting": 0.1518772893772894,
+    "best_params": {
+      "learning_rate": 0.01,
+      "n_estimators": 100,
+      "num_leaves": 31
+    },
+    "cv_auc_mean": 0.5894230769230768,
+    "cv_auc_std": 0.20283777358559818,
+    "cv_auprc_mean": 0.26880452880452876,
+    "cv_auprc_std": 0.11867834210313644
+  },
+  {
+    "model": "XGBoost",
+    "train_auc": 0.9990079365079365,
+    "test_auc": 0.7576923076923078,
+    "train_auprc": 0.9861111111111112,
+    "test_auprc": 0.5086158192090395,
+    "test_brier": 0.0448576845228672,
+    "overfitting": 0.24131562881562874,
+    "best_params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 200
+    },
+    "cv_auc_mean": 0.6698717948717949,
+    "cv_auc_std": 0.1727917879194107,
+    "cv_auprc_mean": 0.32055555555555554,
+    "cv_auprc_std": 0.11306067419480001
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "n_icustays": 140,
+  "n_labevents": 107727,
+  "n_unique_itemid": 498,
+  "top_items_file": "D:\\Học máy'\\mimic-iv-clinical-database-demo-2.2\\outputs\\top_items.csv",
+  "percent_missing_valuenum": 0.11585767727682011,
+  "approx_non_numeric_value_count_when_valuenum_NA": 2893,
+  "coverage_top_items": [
+    {
+      "itemid": 50971,
+      "count": 3022,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50983,
+      "count": 3007,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50912,
+      "count": 3003,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50902,
+      "count": 2981,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51006,
+      "count": 2974,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51221,
+      "count": 2913,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50882,
+      "count": 2863,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50868,
+      "count": 2860,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51265,
+      "count": 2827,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51222,
+      "count": 2787,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51277,
+      "count": 2760,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51279,
+      "count": 2760,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51301,
+      "count": 2760,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51249,
+      "count": 2760,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51250,
+      "count": 2760,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 51248,
+      "count": 2760,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50931,
+      "count": 2711,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50960,
+      "count": 2470,
+      "hadm_in_icu_with_item": 128
+    },
+    {
+      "itemid": 50893,
+      "count": 2377,
+      "hadm_in_icu_with_item": 126
+    },
+    {
+      "itemid": 50970,
+      "count": 2337,
+      "hadm_in_icu_with_item": 126
+    }
+  ],
+  "in_hospital_mortality_rate_among_icustays": 0.1171875
+}
